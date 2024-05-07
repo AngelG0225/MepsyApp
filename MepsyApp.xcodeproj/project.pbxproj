@@ -8,17 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		07C1E5CE2BE99993002C5655 /* MepsyAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5CD2BE99993002C5655 /* MepsyAppApp.swift */; };
-		07C1E5D02BE99993002C5655 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5CF2BE99993002C5655 /* ContentView.swift */; };
 		07C1E5D22BE99994002C5655 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C1E5D12BE99994002C5655 /* Assets.xcassets */; };
 		07C1E5D52BE99994002C5655 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C1E5D42BE99994002C5655 /* Preview Assets.xcassets */; };
+		07C1E5DE2BE99BF3002C5655 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07C1E5DD2BE99BF3002C5655 /* GoogleService-Info.plist */; };
+		07C1E5E32BE99D35002C5655 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5E22BE99D35002C5655 /* SplashScreen.swift */; };
+		07C1E5E52BE99DB2002C5655 /* AppDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5E42BE99DB2002C5655 /* AppDescription.swift */; };
+		07C1E5E72BE99DE1002C5655 /* AppDescription#2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5E62BE99DE1002C5655 /* AppDescription#2.swift */; };
+		07C1E5E92BE99E29002C5655 /* WelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5E82BE99E29002C5655 /* WelcomeScreen.swift */; };
+		07C1E5EC2BE99ED1002C5655 /* SigningIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5EB2BE99ED1002C5655 /* SigningIn.swift */; };
+		07C1E5EF2BE99F8A002C5655 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 07C1E5EE2BE99F8A002C5655 /* FirebaseAnalytics */; };
+		07C1E5F12BE99F8A002C5655 /* FirebaseAnalyticsSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 07C1E5F02BE99F8A002C5655 /* FirebaseAnalyticsSwift */; };
+		07C1E5F42BE9A491002C5655 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 07C1E5F32BE9A491002C5655 /* FirebaseAuth */; };
+		07C1E5F62BE9A525002C5655 /* AuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5F52BE9A525002C5655 /* AuthenticationManager.swift */; };
+		07C1E5F82BE9A589002C5655 /* SigningUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5F72BE9A589002C5655 /* SigningUp.swift */; };
+		07C1E5FA2BE9A5BB002C5655 /* SignUpSuccessfull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5F92BE9A5BB002C5655 /* SignUpSuccessfull.swift */; };
+		07C1E5FC2BE9A5E5002C5655 /* UserForgot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5FB2BE9A5E5002C5655 /* UserForgot.swift */; };
+		07C1E5FE2BE9A5F4002C5655 /* PassForgot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5FD2BE9A5F4002C5655 /* PassForgot.swift */; };
+		07C1E6002BE9A628002C5655 /* MainAppIntro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E5FF2BE9A628002C5655 /* MainAppIntro.swift */; };
+		07C1E6022BE9A640002C5655 /* AppSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E6012BE9A640002C5655 /* AppSettings.swift */; };
+		07C1E6052BE9A68D002C5655 /* Subscription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E6042BE9A68D002C5655 /* Subscription.swift */; };
+		07C1E6072BE9A6A1002C5655 /* FoodScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E6062BE9A6A1002C5655 /* FoodScreen.swift */; };
+		07C1E6092BE9A6B1002C5655 /* SightsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E6082BE9A6B1002C5655 /* SightsScreen.swift */; };
+		07C1E60B2BE9A6BF002C5655 /* ActivityScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C1E60A2BE9A6BF002C5655 /* ActivityScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		07C1E5CA2BE99993002C5655 /* MepsyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MepsyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07C1E5CD2BE99993002C5655 /* MepsyAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MepsyAppApp.swift; sourceTree = "<group>"; };
-		07C1E5CF2BE99993002C5655 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		07C1E5D12BE99994002C5655 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07C1E5D42BE99994002C5655 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		07C1E5DD2BE99BF3002C5655 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		07C1E5E22BE99D35002C5655 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		07C1E5E42BE99DB2002C5655 /* AppDescription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDescription.swift; sourceTree = "<group>"; };
+		07C1E5E62BE99DE1002C5655 /* AppDescription#2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppDescription#2.swift"; sourceTree = "<group>"; };
+		07C1E5E82BE99E29002C5655 /* WelcomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeScreen.swift; sourceTree = "<group>"; };
+		07C1E5EB2BE99ED1002C5655 /* SigningIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigningIn.swift; sourceTree = "<group>"; };
+		07C1E5F52BE9A525002C5655 /* AuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationManager.swift; sourceTree = "<group>"; };
+		07C1E5F72BE9A589002C5655 /* SigningUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigningUp.swift; sourceTree = "<group>"; };
+		07C1E5F92BE9A5BB002C5655 /* SignUpSuccessfull.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpSuccessfull.swift; sourceTree = "<group>"; };
+		07C1E5FB2BE9A5E5002C5655 /* UserForgot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserForgot.swift; sourceTree = "<group>"; };
+		07C1E5FD2BE9A5F4002C5655 /* PassForgot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassForgot.swift; sourceTree = "<group>"; };
+		07C1E5FF2BE9A628002C5655 /* MainAppIntro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppIntro.swift; sourceTree = "<group>"; };
+		07C1E6012BE9A640002C5655 /* AppSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSettings.swift; sourceTree = "<group>"; };
+		07C1E6042BE9A68D002C5655 /* Subscription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subscription.swift; sourceTree = "<group>"; };
+		07C1E6062BE9A6A1002C5655 /* FoodScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodScreen.swift; sourceTree = "<group>"; };
+		07C1E6082BE9A6B1002C5655 /* SightsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SightsScreen.swift; sourceTree = "<group>"; };
+		07C1E60A2BE9A6BF002C5655 /* ActivityScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +61,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				07C1E5F12BE99F8A002C5655 /* FirebaseAnalyticsSwift in Frameworks */,
+				07C1E5F42BE9A491002C5655 /* FirebaseAuth in Frameworks */,
+				07C1E5EF2BE99F8A002C5655 /* FirebaseAnalytics in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,6 +74,9 @@
 			isa = PBXGroup;
 			children = (
 				07C1E5CC2BE99993002C5655 /* MepsyApp */,
+				07C1E5DF2BE99CAB002C5655 /* AppIntro */,
+				07C1E5E02BE99CCD002C5655 /* AppContent  */,
+				07C1E5E12BE99CDF002C5655 /* FrameWork */,
 				07C1E5CB2BE99993002C5655 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +93,6 @@
 			isa = PBXGroup;
 			children = (
 				07C1E5CD2BE99993002C5655 /* MepsyAppApp.swift */,
-				07C1E5CF2BE99993002C5655 /* ContentView.swift */,
 				07C1E5D12BE99994002C5655 /* Assets.xcassets */,
 				07C1E5D32BE99994002C5655 /* Preview Content */,
 			);
@@ -65,6 +105,60 @@
 				07C1E5D42BE99994002C5655 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		07C1E5DF2BE99CAB002C5655 /* AppIntro */ = {
+			isa = PBXGroup;
+			children = (
+				07C1E5E22BE99D35002C5655 /* SplashScreen.swift */,
+				07C1E5E42BE99DB2002C5655 /* AppDescription.swift */,
+				07C1E5E62BE99DE1002C5655 /* AppDescription#2.swift */,
+				07C1E5E82BE99E29002C5655 /* WelcomeScreen.swift */,
+				07C1E5EA2BE99E85002C5655 /* AppAuthentication */,
+			);
+			path = AppIntro;
+			sourceTree = "<group>";
+		};
+		07C1E5E02BE99CCD002C5655 /* AppContent  */ = {
+			isa = PBXGroup;
+			children = (
+				07C1E5FF2BE9A628002C5655 /* MainAppIntro.swift */,
+				07C1E6012BE9A640002C5655 /* AppSettings.swift */,
+				07C1E6032BE9A655002C5655 /* HomeScreens */,
+				07C1E6042BE9A68D002C5655 /* Subscription.swift */,
+			);
+			path = "AppContent ";
+			sourceTree = "<group>";
+		};
+		07C1E5E12BE99CDF002C5655 /* FrameWork */ = {
+			isa = PBXGroup;
+			children = (
+				07C1E5DD2BE99BF3002C5655 /* GoogleService-Info.plist */,
+			);
+			path = FrameWork;
+			sourceTree = "<group>";
+		};
+		07C1E5EA2BE99E85002C5655 /* AppAuthentication */ = {
+			isa = PBXGroup;
+			children = (
+				07C1E5EB2BE99ED1002C5655 /* SigningIn.swift */,
+				07C1E5F52BE9A525002C5655 /* AuthenticationManager.swift */,
+				07C1E5F72BE9A589002C5655 /* SigningUp.swift */,
+				07C1E5F92BE9A5BB002C5655 /* SignUpSuccessfull.swift */,
+				07C1E5FB2BE9A5E5002C5655 /* UserForgot.swift */,
+				07C1E5FD2BE9A5F4002C5655 /* PassForgot.swift */,
+			);
+			path = AppAuthentication;
+			sourceTree = "<group>";
+		};
+		07C1E6032BE9A655002C5655 /* HomeScreens */ = {
+			isa = PBXGroup;
+			children = (
+				07C1E6062BE9A6A1002C5655 /* FoodScreen.swift */,
+				07C1E6082BE9A6B1002C5655 /* SightsScreen.swift */,
+				07C1E60A2BE9A6BF002C5655 /* ActivityScreen.swift */,
+			);
+			path = HomeScreens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +177,11 @@
 			dependencies = (
 			);
 			name = MepsyApp;
+			packageProductDependencies = (
+				07C1E5EE2BE99F8A002C5655 /* FirebaseAnalytics */,
+				07C1E5F02BE99F8A002C5655 /* FirebaseAnalyticsSwift */,
+				07C1E5F32BE9A491002C5655 /* FirebaseAuth */,
+			);
 			productName = MepsyApp;
 			productReference = 07C1E5CA2BE99993002C5655 /* MepsyApp.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +210,9 @@
 				Base,
 			);
 			mainGroup = 07C1E5C12BE99993002C5655;
+			packageReferences = (
+				07C1E5ED2BE99F8A002C5655 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 07C1E5CB2BE99993002C5655 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,6 +229,7 @@
 			files = (
 				07C1E5D52BE99994002C5655 /* Preview Assets.xcassets in Resources */,
 				07C1E5D22BE99994002C5655 /* Assets.xcassets in Resources */,
+				07C1E5DE2BE99BF3002C5655 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +240,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				07C1E5D02BE99993002C5655 /* ContentView.swift in Sources */,
+				07C1E6072BE9A6A1002C5655 /* FoodScreen.swift in Sources */,
+				07C1E6022BE9A640002C5655 /* AppSettings.swift in Sources */,
+				07C1E5FE2BE9A5F4002C5655 /* PassForgot.swift in Sources */,
+				07C1E5E32BE99D35002C5655 /* SplashScreen.swift in Sources */,
+				07C1E5FC2BE9A5E5002C5655 /* UserForgot.swift in Sources */,
+				07C1E6052BE9A68D002C5655 /* Subscription.swift in Sources */,
+				07C1E5E52BE99DB2002C5655 /* AppDescription.swift in Sources */,
+				07C1E5F62BE9A525002C5655 /* AuthenticationManager.swift in Sources */,
+				07C1E5E92BE99E29002C5655 /* WelcomeScreen.swift in Sources */,
 				07C1E5CE2BE99993002C5655 /* MepsyAppApp.swift in Sources */,
+				07C1E5EC2BE99ED1002C5655 /* SigningIn.swift in Sources */,
+				07C1E60B2BE9A6BF002C5655 /* ActivityScreen.swift in Sources */,
+				07C1E5F82BE9A589002C5655 /* SigningUp.swift in Sources */,
+				07C1E5E72BE99DE1002C5655 /* AppDescription#2.swift in Sources */,
+				07C1E5FA2BE9A5BB002C5655 /* SignUpSuccessfull.swift in Sources */,
+				07C1E6002BE9A628002C5655 /* MainAppIntro.swift in Sources */,
+				07C1E6092BE9A6B1002C5655 /* SightsScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +393,7 @@
 				DEVELOPMENT_TEAM = SCS7TA3Z8W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +423,7 @@
 				DEVELOPMENT_TEAM = SCS7TA3Z8W;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -344,6 +464,35 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		07C1E5ED2BE99F8A002C5655 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.25.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		07C1E5EE2BE99F8A002C5655 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 07C1E5ED2BE99F8A002C5655 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		07C1E5F02BE99F8A002C5655 /* FirebaseAnalyticsSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 07C1E5ED2BE99F8A002C5655 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalyticsSwift;
+		};
+		07C1E5F32BE9A491002C5655 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 07C1E5ED2BE99F8A002C5655 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 07C1E5C22BE99993002C5655 /* Project object */;
 }
